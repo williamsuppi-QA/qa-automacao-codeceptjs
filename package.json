@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@types/node": "^25.9.1",
+    "codeceptjs": "^4.0.4",
+    "mochawesome": "^1.5.5",
+    "mochawesome-report-generator": "^6.3.2",
+    "playwright": "^1.60.0",
+    "tsx": "^4.22.4",
+    "typescript": "^6.0.3"
+  }
+}
